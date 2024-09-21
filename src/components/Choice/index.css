@@ -1,0 +1,11 @@
+.btn {
+  background-color: transparent;
+  border: none;
+  margin: 0px;
+  cursor: pointer;
+}
+
+.image {
+  height: 150px;
+  width: 150px;
+}
